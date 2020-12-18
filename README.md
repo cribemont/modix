@@ -2,7 +2,7 @@
 
 Output will be -5;
 
-```bash
+```php
 /*
 (int)$_GET is 25;
 $e is declared after function declaration but accessed though global in the function call;
